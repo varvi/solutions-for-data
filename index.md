@@ -1,71 +1,69 @@
 ---
 layout: default
-title: Home
+title: 
 ---
 
 <!-- 🔥 Hero Header Section -->
 <div style="text-align: center; margin-bottom: 2rem;">
   <img src="assets/banner.jpg" alt="Banner" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 1.5rem;">
   
-  <h1 style="margin-bottom: 0.2rem;">Varvara Mitropoulos</h1>
+  <h1 style="margin-bottom: 0.2rem;">Varvara Mitropoulos, PhD</h1>
   <h3 style="color: gray; margin-top: 0;">Data Solutions Consultant</h3>
 
   <p style="max-width: 600px; margin: 1rem auto; font-size: 1.1rem;">
-    Helping startups and small businesses build data tools that actually get used.
+    Helping startups and small businesses build data solutions that actually solve their problem.
   </p>
 
-  <a href="mailto:varvaramitropoulos@gmail.com" style="text-decoration: none; color: white; background-color: #007ACC; padding: 0.6rem 1rem; border-radius: 6px; font-weight: bold;">
-    ✉️ Mail Me
   </a>
 </div>
 
-# 👋 Hi, I'm [Your Name]
 
-**Founder of [Your Company Name] – Data Solutions Tailored for You.**
 
-I help businesses unlock the value of their data through custom analytics, automation, and machine learning solutions.
-
----
-
-## 🔧 What I Do
-
-- 📊 **Data Analysis & Visualization** – Get insights that actually make sense.
-- 🤖 **Machine Learning** – Practical, production-ready models.
-- 🛠️ **Custom Tooling** – Dashboards, APIs, automation, you name it.
-- 🧹 **Data Cleaning & Integration** – Because good data beats fancy models.
+I help businesses unlock the value of their data through thought data management, custom analytics, automation, and machine learning solutions.
+Every solution is adapted to the tech stack and skills of the company in order to understand and maintain it.
 
 ---
 
-## 🧪 Recent Projects
+## What I Do
 
-### 📈 [Project Title]
-*Short 1-2 line summary of what you did, for whom, and what value it brought.*
-
-**Stack:** R, Python, Shiny, SQL
-
----
-
-### 🧠 [Project Title]
-*A machine learning or analytics-focused project description.*
-
-**Stack:** scikit-learn, pandas, Power BI
+-  **Data management** - Organize your data to be able to leverage it.
+-  **Data Analysis & Visualization** – Get insights that actually make sense.
+-  **Machine Learning** – Practical, production-ready models.
+-  **Custom Tooling** – Dashboards, APIs, automation.
+-  **Data Cleaning & Integration** – Because good data beats fancy models.
 
 ---
 
-## 📫 Get in Touch
+## Recent Projects
 
-I love working with startups, researchers, and small businesses.  
-If you have a problem worth solving with data, let’s chat.
+### Expenses dashboarding and Rooting Application
+*Built a cutom rooting application and expenses tracker for travelers with the van.*
 
-📧 [you@email.com]  
-🌐 [LinkedIn](https://linkedin.com/in/yourname) | [GitHub](https://github.com/yourname)
+**Stack:** R, Python, RShiny, Google Cloud Solutions, Data Pipelines, Automation.
 
----
-
-## 🧠 About Me
-
-I'm a one-person data force based in [City, Country]. With a background in [your background], I've worked with [type of clients] to build data tools that actually get used.
+**Shiny app:**  [Travel dashboard](https://varvara-mitro.shinyapps.io/TEST_VanLifeDash/)
 
 ---
 
-© [Your Name] • Built with [Jekyll](https://jekyllrb.com) + ❤️
+## Get in Touch
+
+I love working with startups, and small to mid-sized businesses.  
+If you have a problem that we should assess together or need inspiration on how to use your data, let’s chat.
+
+ [LinkedIn](https://linkedin.com/in/varvara-mitropoulos) | [GitHub](https://github.com/varvi)
+
+ <a href="mailto:varvaramitropoulos@gmail.com" style="text-decoration: none; color: white; background-color: #007ACC; padding: 0.6rem 1rem; border-radius: 6px; font-weight: bold;">
+    ✉️ Email.
+  </a>
+  
+---
+
+## About Me
+
+I'm a one-person data force based in Zürich, Switzerland. With a background in Biochemistry, Data Management for Clinical Trials, GCP and ECRIN compliance for clinical trials data, I can become part of your teams to understand your needs, figure out your challenges, and deliver a solution that you will actually use. If you need an external opinion for a larger project that you plan, get me on board to figure out feasibility based on your resources.
+When I am out and about to get inspired by nature I love the cold clear weather and climbing peaks with a splitboard.
+Recently I published a ski-touring adventure movie in Greece. If you are interested watch ["Xioni"](https://youtu.be/GAzRcDvd91g) on YouTube.
+
+---
+
+© [Varvara Mitropoulos] • Built with [Jekyll](https://jekyllrb.com)️
