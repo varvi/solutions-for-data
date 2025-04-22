@@ -20,7 +20,7 @@ title:
 
 
 I help businesses unlock the value of their data through thought data management, custom analytics, automation, and machine learning solutions.
-Every solution is adapted to the tech stack and skills of the company in order to understand and maintain it.
+Every solution is adapted to the tech stack and skills of the company so it is understandable and useful.
 
 ---
 
