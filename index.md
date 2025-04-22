@@ -53,7 +53,7 @@ If you have a problem that we should assess together or need inspiration on how 
  [LinkedIn](https://linkedin.com/in/varvara-mitropoulos) | [GitHub](https://github.com/varvi)
 
  <a href="mailto:varvaramitropoulos@gmail.com" style="text-decoration: none; color: white; background-color: #007ACC; padding: 0.6rem 1rem; border-radius: 6px; font-weight: bold;">
-    ✉️ Email.
+    ✉️ Email
   </a>
   
 ---
