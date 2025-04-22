@@ -3,6 +3,23 @@ layout: default
 title: Home
 ---
 
+<!-- 🔥 Hero Header Section -->
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="assets/banner.jpg" alt="Banner" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 1.5rem;">
+  
+  <h1 style="margin-bottom: 0.2rem;">Varvara Mitropoulos</h1>
+  <h3 style="color: gray; margin-top: 0;">Data Solutions Consultant</h3>
+
+  <p style="max-width: 600px; margin: 1rem auto; font-size: 1.1rem;">
+    Helping startups and small businesses build data tools that actually get used.
+  </p>
+
+  <a href="mailto:varvaramitropoulos@gmail.com" style="text-decoration: none; color: white; background-color: #007ACC; padding: 0.6rem 1rem; border-radius: 6px; font-weight: bold;">
+    ✉️ Mail Me
+  </a>
+</div>
+
+
 # 👋 Hi, I'm [Your Name]
 
 **Founder of [Your Company Name] – Data Solutions Tailored for You.**
