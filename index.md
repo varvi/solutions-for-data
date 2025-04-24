@@ -81,7 +81,7 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
 ### Recent Projects
 
 **Data management governance, processes, and infrastructure for a large academic institution**  
-*Built up a data management ecosystem to comply with GCP and ECRIN requirements.*
+*Built a data management ecosystem to comply with GCP and ECRIN requirements.*
 
 **Expenses dashboarding and Routing Application**  
 *Built a custom routing application and expense tracker for van travelers.*
@@ -107,8 +107,8 @@ Let’s assess your needs and explore ideas together.
 
 I'm a one-person data force based in Zürich, Switzerland.  
 With a PhD in Biochemistry, a master of advanced studies in data science, and experience in clinical trials, project management, user experience and service design, I deliver solutions companies can actually use.  
-When I'm not working, you’ll find me in the mountains — I recently published a ski-touring film in Greece:  
-[Xioni on YouTube](https://youtu.be/GAzRcDvd91g)
+
+When I'm not working, you’ll find me in the mountains — I recently published a ski-touring film in Greece: [Xioni on YouTube](https://youtu.be/GAzRcDvd91g)
 
 ---
 
