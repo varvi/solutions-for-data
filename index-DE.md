@@ -1,5 +1,5 @@
 
-[🇩🇪 Deutsch](index-de.html)
+[🇬🇧 English](index.html)
 
 <img src="assets/banner.jpg" alt="Banner" style="
   width: 100%;
@@ -11,12 +11,12 @@
   margin-bottom: 1.5rem;
 ">
 
-### Data Solutions Consultant
+### Daten und Lösungen Beratung
 
 ---
 
-I help businesses unlock the value of their data through thoughtful data management, custom analytics, automation, and machine learning solutions.  
-Every solution is adapted to the tech stack and skills of the company so it is understandable and useful.
+Ich helfe kleinen und mittleren Unternehmen, den Wert ihrer Daten durch durchdachtes Datenmanagement, benutzerdefinierte Analysen, Automatisierung und maschinelle Lernlösungen zu erschließen.  
+Jede Lösung wird an die technische Infrastruktur und die Fähigkeiten des Unternehmens angepasst, damit sie verständlich, nachhaltig und nützlich ist.
 
 ---
 
@@ -27,67 +27,67 @@ Every solution is adapted to the tech stack and skills of the company so it is u
 <div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 600px;">
 <img src="assets/icons/layer-group-solid.svg" alt="Data Management" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
-**Data Management**  
+**Daten Management**  
 <br>
-Collect, store, organize, and use your data securely, efficiently, and cost-effectively.
+Erfassen, speichern, organisieren und nutzen Sie Ihre Daten sicher, effizient und kostengünstig.
 </div>
 
 <!-- Box 2 -->
 <div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 500px;">
 <img src="assets/icons/hand-sparkles-solid.svg" alt="Data cleaning" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
-**Data Cleaning & Integration**  
+**Daten Aufbereitung & Integration**  
 <br>
-Cause clean data beats any model.
+Denn saubere Daten sind besser als jedes Modell.
 </div>
 
 <!-- Box 3 -->
 <div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 500px;">
 <img src="assets/icons/comments-solid.svg" alt="UX" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
-**Customer Research**  
+**User Experience Research**  
 <br>
-Understand your users and design services that work.
+Verstehen Sie Ihre Nutzer und entwickeln Sie Dienste und Produkte, die funktionieren.
 </div>
 
 <!-- Box 4 -->
 <div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 500px;">
 <img src="assets/icons/seedling-solid.svg" alt="Data cleaning" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
-**Data Analysis & Visualization**  
+**Daten Analyse & Visualisierung**  
 <br>
-Get insights that support you in your decision making.
+Erhalten Sie Einblicke, die Sie bei Ihren täglichen Entscheidungen unterstützen.
 </div>
 
 <!-- Box 5 -->
 <div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 500px;">
 <img src="assets/icons/toolbox-solid.svg" alt="AI" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
-**Machine Learning and AI**  
+**Machinelles Learnen and AI**  
 <br>
-Leverage your data and propel your business.
+Nutzen Sie Ihre Daten und treiben Sie Ihr Geschäft voran durch die automatisierung von komplexen Prozessen.
 </div>
 
 <!-- Box 6 -->
 <div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 500px;">
 <img src="assets/icons/house-chimney-medical-solid.svg" alt="Clinical Data" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
-**Clinical Data Management**  
+**Management von Klinischen Daten**  
 <br>
-I can guide you through the Good Clinical Practice and/or ECRIN requirements for your data if you are planning a clinical trial.
+Wenn Sie eine klinische Studie planen, kann ich Sie durch die Anforderungen der Guten Klinischen Praxis und/oder ECRIN für Ihre Daten führen.
 </div>
 
 </div>
 
 ---
 
-### Recent Projects
+### Projekte
 
-**Data management governance, processes, and infrastructure for a large academic institution**  
-*Built a data management ecosystem to comply with GCP and ECRIN requirements.*
+**Governance, Prozesse und Infrastruktur für das Datenmanagement der klinischen Daten für eine große akademische Einrichtung**  
+*Aufbau eines Datenmanagement-Ökosystems zur Einhaltung der GCP- und ECRIN-Anforderungen.*
 
-**Expenses dashboarding and Routing Application**  
-*Built a custom routing application and expense tracker for van travelers.*
+**Ausgaben-Dashboard und Routing-Anwendung**  
+*Aufbau einer benutzerdefinierten Routing-Anwendung und eines Ausgaben-Trackers für Van-Reisende.*
 
 *RShiny app:* [Travel dashboard](https://varvara-mitro.shinyapps.io/TEST_VanLifeDash/)
 
@@ -96,10 +96,10 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
 
 ---
 
-### Get in Touch
+### Kontakt
 
-I love working with startups and small to mid-sized businesses.  
-Let’s assess your needs and explore ideas together.
+Ich arbeite mit Start-ups und kleinen bis mittelständischen Unternehmen zusammen.  
+Lassen Sie uns Ihren Bedarf ermitteln und gemeinsam Ideen entwickeln.
 
 [LinkedIn](https://linkedin.com/in/varvara-mitropoulos) | [GitHub](https://github.com/varvi)  
 [✉️ Email Me](mailto:varvaramitropoulos@gmail.com)
@@ -108,10 +108,10 @@ Let’s assess your needs and explore ideas together.
 
 ### About Me
 
-I'm a one-person data force based in Zürich, Switzerland.  
-With a PhD in Biochemistry, a master of advanced studies in data science, and experience in clinical trials, project management, user experience and service design, I deliver solutions companies can actually use.  
+Ich bin eine Ein-Personen-Datenspezialistin mit Sitz in Zürich, Schweiz.  
+Mit einem Doktortitel in Biochemie, einem Master of Advanced Studies in Data Science und Erfahrung in klinischen Studien, Projektmanagement, User Experience und Service Design liefere ich Lösungen, die Unternehmen tatsächlich nutzen bringen.  
 
-When I'm not working, you’ll find me in the mountains — I recently published a ski-touring film in Greece: [Xioni on YouTube](https://youtu.be/GAzRcDvd91g)
+Wenn ich nicht arbeite, finden Sie mich in den Bergen. Kürzlich habe ich einen Skitourenfilm in Griechenland veröffentlicht: [Xioni on YouTube](https://youtu.be/GAzRcDvd91g)
 
 ---
 
