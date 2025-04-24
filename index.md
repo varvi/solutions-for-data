@@ -45,7 +45,7 @@ Cause clean data beats any model.
 <div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 500px;">
 <img src="assets/icons/comments-solid.svg" alt="UX" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
-**Customer Research**  
+**User Experience Research**  
 <br>
 Understand your users and design services that work.
 </div>
