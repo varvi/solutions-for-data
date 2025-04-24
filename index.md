@@ -80,11 +80,16 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
 
 ### Recent Projects
 
+**Data management governance, processes, and infrastructure for a large academic institution**  
+*Built up a data management ecosystem to comply with GCP and ECRIN requirements.*
+
 **Expenses dashboarding and Routing Application**  
 *Built a custom routing application and expense tracker for van travelers.*
 
-**Stack:** R, Python, RShiny, Google Cloud Platform, Automation  
-**Shiny app:** [Travel dashboard](https://varvara-mitro.shinyapps.io/TEST_VanLifeDash/)
+*RShiny app:* [Travel dashboard](https://varvara-mitro.shinyapps.io/TEST_VanLifeDash/)
+
+**Stack:** R, Python, RShiny, Google Cloud Platform, Automation, Good Clinical Practice (GCP), European Clinical Research Infrastructure Network (ECRIN)
+
 
 ---
 
