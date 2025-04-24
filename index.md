@@ -2,8 +2,6 @@
 
 ### Data Solutions Consultant
 
-Helping startups and small businesses build data solutions that actually solve their problem.
-
 ---
 
 I help businesses unlock the value of their data through thoughtful data management, custom analytics, automation, and machine learning solutions.  
@@ -11,44 +9,58 @@ Every solution is adapted to the tech stack and skills of the company so it is u
 
 ---
 
-### What I Offer
+### Services
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem;">
 
-<div style="
-  flex: 1 1 220px;
-  max-width: 260px;
-  max-height: 150px;
-  height: auto;
-  background: #f9f9f9;
-  border: 1px solid #ccc;
-  border-radius: 15px;
-  padding: 1.2rem;
-  text-align: center;
-  box-shadow: 2px 2px 8px rgba(0,0,0,0.05);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-">
+<!-- Box 1 -->
+<div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 600px;">
+<img src="assets/icons/layer-group-solid.svg" alt="Data Management" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
-<img src="assets/icons/hand-sparkles-solid.svg" alt="Web Dev" style="width: 40px; height: 40px; margin-bottom: 1rem; display: block;" />
-  <p style="margin: 0;"><strong>Data Management</strong><br>
-     Collect, store, organize, and use your data securely, efficiently, and cost-effectively.
-  </p>
+**Data Management**  
+Collect, store, organize, and use your data securely, efficiently, and cost-effectively.
 </div>
 
+<!-- Box 2 -->
+<div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 500px;">
+<img src="assets/icons/hand-sparkles-solid.svg" alt="Data cleaning" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
+**Data Cleaning & Integration** 
+Cause clean data beats any model.
 </div>
 
+<!-- Box 3 -->
+<div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 500px;">
+<img src="assets/icons/comments-solid.svg" alt="UX" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
----
+**Customer Research**  
+Understand your users and design services that work.
+</div>
 
-### What I Do
+<!-- Box 4 -->
+<div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 500px;">
+<img src="assets/icons/seedling-solid.svg" alt="Data cleaning" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
-- **Data management** – Organize your data to be able to leverage it.  
-- **Data Cleaning & Integration** – Because good data beats fancy models.  
-- **Customer Research** – From user experience to service ecosystem analysis.  
-- **Data Analysis & Visualization** – Get insights that actually make sense.  
-- **Machine Learning** – Practical, production-ready models.  
+**Data Analysis & Visualization** 
+Get insights that support you in your everyday tasks.
+</div>
+
+<!-- Box 5 -->
+<div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 500px;">
+<img src="assets/icons/toolbox-solid.svg" alt="AI" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
+
+**Machine Learning and AI**  
+Leverage your data and propel your business.
+</div>
+
+<!-- Box 6 -->
+<div style="flex: 1 1 220px; max-width: 260px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1.2rem; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; max-height: 500px;">
+<img src="assets/icons/house-chimney-medical-solid.svg" alt="Clinical Data" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
+
+**Clinical Data Management**  
+If you plan a clinical trial or setting up your data ecosystem based on Good Clinical Practice and/or ECRIN you can count on my support.
+</div>
+
+</div>
 
 ---
 
