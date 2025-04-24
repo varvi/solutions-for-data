@@ -1,5 +1,5 @@
 
-[🇩🇪 Deutsch](index-de.html)
+[🇩🇪 Deutsch](index-DE.html)
 
 <img src="assets/banner.jpg" alt="Banner" style="
   width: 100%;
