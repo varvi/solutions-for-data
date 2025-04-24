@@ -1,4 +1,12 @@
-![](assets/banner.jpg)
+<img src="assets/banner.jpg" alt="Banner" style="
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+">
 
 ### Data Solutions Consultant
 
@@ -63,7 +71,7 @@ Leverage your data and propel your business.
 
 **Clinical Data Management**  
 <br>
-If you plan a clinical trial or you are setting up your data ecosystem based on Good Clinical Practice and/or ECRIN you can count on my support.
+I can guide you through the Good Clinical Practice and/or ECRIN requirements for your data if you are planning a clinical trial.
 </div>
 
 </div>
