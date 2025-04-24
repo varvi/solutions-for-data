@@ -106,7 +106,7 @@ Lassen Sie uns Ihren Bedarf ermitteln und gemeinsam Ideen entwickeln.
 
 ---
 
-### About Me
+### Meine Person
 
 Ich bin eine Ein-Personen-Datenspezialistin mit Sitz in Zürich, Schweiz.  
 Mit einem Doktortitel in Biochemie, einem Master of Advanced Studies in Data Science und Erfahrung in klinischen Studien, Projektmanagement, User Experience und Service Design liefere ich Lösungen, die Unternehmen tatsächlich nutzen bringen.  
