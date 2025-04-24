@@ -17,6 +17,7 @@ Every solution is adapted to the tech stack and skills of the company so it is u
 <img src="assets/icons/layer-group-solid.svg" alt="Data Management" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
 **Data Management**  
+
 Collect, store, organize, and use your data securely, efficiently, and cost-effectively.
 </div>
 
@@ -25,6 +26,7 @@ Collect, store, organize, and use your data securely, efficiently, and cost-effe
 <img src="assets/icons/hand-sparkles-solid.svg" alt="Data cleaning" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
 **Data Cleaning & Integration** 
+
 Cause clean data beats any model.
 </div>
 
@@ -33,6 +35,7 @@ Cause clean data beats any model.
 <img src="assets/icons/comments-solid.svg" alt="UX" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
 **Customer Research**  
+
 Understand your users and design services that work.
 </div>
 
@@ -41,6 +44,7 @@ Understand your users and design services that work.
 <img src="assets/icons/seedling-solid.svg" alt="Data cleaning" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
 **Data Analysis & Visualization** 
+
 Get insights that support you in your everyday tasks.
 </div>
 
@@ -49,6 +53,7 @@ Get insights that support you in your everyday tasks.
 <img src="assets/icons/toolbox-solid.svg" alt="AI" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
 **Machine Learning and AI**  
+
 Leverage your data and propel your business.
 </div>
 
@@ -57,6 +62,7 @@ Leverage your data and propel your business.
 <img src="assets/icons/house-chimney-medical-solid.svg" alt="Clinical Data" style="width: 40px; height: 40px; margin-bottom: 1rem;" />
 
 **Clinical Data Management**  
+
 If you plan a clinical trial or setting up your data ecosystem based on Good Clinical Practice and/or ECRIN you can count on my support.
 </div>
 
