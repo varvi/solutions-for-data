@@ -88,7 +88,7 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
 
 *RShiny app:* [Travel dashboard](https://varvara-mitro.shinyapps.io/TEST_VanLifeDash/)
 
-**Stack:** R, Python, RShiny, Google Cloud Platform, Automation, Good Clinical Practice (GCP), European Clinical Research Infrastructure Network (ECRIN)
+**Stack:** R, Python, RShiny, Google Cloud Platform, Automation, GitHub, Good Clinical Practice (GCP), European Clinical Research Infrastructure Network (ECRIN)
 
 
 ---
