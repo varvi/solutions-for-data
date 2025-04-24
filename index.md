@@ -1,4 +1,4 @@
-![Banner](assets/banner.jpg)
+![](assets/banner.jpg)
 
 ### Data Solutions Consultant
 
@@ -13,39 +13,32 @@ Every solution is adapted to the tech stack and skills of the company so it is u
 
 ### What I Offer
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem;">
+<div style="
+  flex: 1 1 220px;
+  max-width: 260px;
+  max-height: 150px;
+  height: auto;
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  padding: 1.2rem;
+  text-align: center;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+">
 
-<div style="flex: 1 1 240px; max-width: 280px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1rem; text-align: center;">
-<img src="assets/icons/hand-sparkles-solid.svg" alt="Web Dev" style="width: 40px;" />
-<br><strong>Web Development</strong><br>
-Clean, responsive websites with heart and strategy.
+<img src="assets/icons/hand-sparkles-solid.svg" alt="Web Dev" style="width: 40px; height: 40px; margin-bottom: 1rem; display: block;" />
+  <p style="margin: 0;"><strong>Data Management</strong><br>
+     Collect, store, organize, and use your data securely, efficiently, and cost-effectively.
+  </p>
 </div>
 
-<div style="flex: 1 1 240px; max-width: 280px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1rem; text-align: center;">
-<img src="assets/icons/hand-sparkles-solid.svg" alt="Data Analysis" style="width: 40px;" />
-<br><strong>Data Analysis</strong><br>
-Turn your data into real insights that drive decisions.
-</div>
-
-<div style="flex: 1 1 240px; max-width: 280px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1rem; text-align: center;">
-<img src="assets/icons/hand-sparkles-solid.svg" alt="Automation" style="width: 40px;" />
-<br><strong>Automation</strong><br>
-Free up your time with intelligent automation.
-</div>
-
-<div style="flex: 1 1 240px; max-width: 280px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1rem; text-align: center;">
-<img src="assets/icons/hand-sparkles-solid.svg" alt="Automation" style="width: 40px;" />
-<br><strong>Automation</strong><br>
-Free up your time with intelligent automation.
-</div>
-
-<div style="flex: 1 1 240px; max-width: 280px; background: #f9f9f9; border: 1px solid #ccc; border-radius: 15px; padding: 1rem; text-align: center;">
-<img src="assets/icons/hand-sparkles-solid.svg" alt="Research" style="width: 40px;" />
-<br><strong>Clinical Data Management</strong><br>
-Understand your users to build better solutions.
-</div>
 
 </div>
+
 
 ---
 
