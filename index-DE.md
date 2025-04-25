@@ -1,3 +1,17 @@
+<head>
+  <title>Data Solutions Consulting and Implementations</title>
+  <meta name="description" content="unlock the value of your data through thoughtful data management, custom analytics, automation, and machine learning solutions. I'm a one-person data force based in Zürich, Switzerland.  
+With a PhD in Biochemistry, a master of advanced studies in data science, and experience in clinical trials, project management, user experience and service design, I deliver solutions companies can actually use. ETH Zurich, ZHAW, Data Science, Machine learning, AI. Erschließen Sie den Wert Ihrer Daten durch durchdachtes Datenmanagement, maßgeschneiderte Analysen, Automatisierung und maschinelle Lernlösungen. Ich bin eine Ein-Personen-Datentruppe mit Sitz in Zürich, Schweiz.  
+Mit einem Doktortitel in Biochemie, einem Master of Advanced Studies in Data Science und Erfahrung in klinischen Studien, Projektmanagement, User Experience und Service Design liefere ich Lösungen, die Unternehmen tatsächlich nutzen können. ETH Zürich, ZHAW, Data Science, Maschinelles Lernen, KI. Kleine und Mittelgrosse Unternehmen, KMU.
+" />
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="Varvara Mitropoulos" />
+  <meta property="og:title" content="Data Solutions and Implementation" />
+  <meta property="og:description" content="Data management, Data science, Data Analysis, Machine Learning, AI, Dashboard, Data analytics, Clinical data management, Cloud solutions, google cloud platform" />
+  <meta property="og:url" content="https://varvi.github.io/solutions-for-data/index.html" />
+  <meta property="og:type" content="website" />
+
+</head>
 
 [🇬🇧 English](index.html)
 
