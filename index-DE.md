@@ -91,7 +91,7 @@ Wenn Sie eine klinische Studie planen, kann ich Sie durch die Anforderungen der 
   </div>
 
   <!-- Arrow between Schritt 1 and Schritt 2 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
 
   <!-- Schritt 2 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">
@@ -101,7 +101,7 @@ Wenn Sie eine klinische Studie planen, kann ich Sie durch die Anforderungen der 
   </div>
 
   <!-- Arrow between Schritt 2 and Schritt 3 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
 
   <!-- Schritt 3 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">
@@ -110,7 +110,7 @@ Wenn Sie eine klinische Studie planen, kann ich Sie durch die Anforderungen der 
   </div>
 
   <!-- Arrow between Schritt 3 and Schritt 4 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
 
   <!-- Schritt 4 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">
@@ -119,7 +119,7 @@ Wenn Sie eine klinische Studie planen, kann ich Sie durch die Anforderungen der 
   </div>
 
   <!-- Arrow between Schritt 4 and Schritt 5 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
 
   <!-- Schritt 5 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">
@@ -128,7 +128,7 @@ Wenn Sie eine klinische Studie planen, kann ich Sie durch die Anforderungen der 
   </div>
 
   <!-- Arrow between Schritt 5 and Schritt 6 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
   
   <!-- Schritt 6 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">
@@ -137,7 +137,7 @@ Wenn Sie eine klinische Studie planen, kann ich Sie durch die Anforderungen der 
   </div>
   
     <!-- Arrow between Schritt 6 and Schritt 7 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
   
   <!-- Schritt 7 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">

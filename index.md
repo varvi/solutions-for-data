@@ -91,7 +91,7 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
   </div>
 
   <!-- Arrow between Step 1 and Step 2 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
 
   <!-- Step 2 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">
@@ -101,7 +101,7 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
   </div>
 
   <!-- Arrow between Step 2 and Step 3 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
 
   <!-- Step 3 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">
@@ -110,7 +110,7 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
   </div>
 
   <!-- Arrow between Step 3 and Step 4 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
 
   <!-- Step 4 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">
@@ -119,7 +119,7 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
   </div>
 
   <!-- Arrow between Step 4 and Step 5 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
 
   <!-- Step 5 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">
@@ -128,7 +128,7 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
   </div>
 
   <!-- Arrow between Step 5 and Step 6 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
   
   <!-- Step 6 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">
@@ -137,7 +137,7 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
   </div>
   
     <!-- Arrow between Step 6 and Step 7 -->
-  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 20px;">&#8594;</div>
+  <div style="font-size: 2rem; transform: rotate(0deg); margin: 0 2px;">&#8594;</div>
   
   <!-- Step 7 -->
   <div style="text-align: center; flex: 1; min-width: 180px; margin: 10px; padding: 20px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.05); border-radius: 15px; background: #f9f9f9;">
