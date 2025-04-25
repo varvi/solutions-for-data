@@ -188,10 +188,10 @@ Lassen Sie uns Ihren Bedarf ermitteln und gemeinsam Ideen entwickeln.
 
 ---
 
-### Meine Person
+### Zur Person
 
-Ich bin eine Ein-Personen-Datenspezialistin mit Sitz in Zürich, Schweiz.  
-Mit einem Doktortitel in Biochemie, einem Master of Advanced Studies in Data Science und Erfahrung in klinischen Studien, Projektmanagement, User Experience und Service Design liefere ich Lösungen, die Unternehmen tatsächlich nutzen bringen.  
+Datenspezialistin mit Sitz in Zürich, Schweiz.  
+Mit einem Doktortitel in Biochemie, ETH Zürich, einem Master of Advanced Studies in Data Science, ZHAW, und Erfahrung in klinischen Studien, Projektmanagement, User Experience und Service Design liefere ich Lösungen, die Unternehmen tatsächlich nutzen bringen.  
 
 Wenn ich nicht arbeite, finden Sie mich in den Bergen. Kürzlich habe ich einen Skitourenfilm in Griechenland veröffentlicht: [Xioni on YouTube](https://youtu.be/GAzRcDvd91g)
 
