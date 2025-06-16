@@ -170,7 +170,7 @@ Wenn Sie eine klinische Studie planen, kann ich Sie durch die Anforderungen der 
 **Vorhersagemodell für das Verschrauben von Fensterrahmen**  
 *Benutzerdefinierte Anwendung und Datenpipeline. Training und Einsatz von maschinellen Lernenalgorithm. Derzeit arbeiten wir an MLOps, um den Lebenszyklus des maschinellen Lernens zu automatisieren.*
 
-*RShiny app:* [Force Prediction for Anchoring](https://varvara-mitro.shinyapps.io/Arko_RandomForest__AppTEST/)
+*RShiny app:* [Force Prediction for Anchoring Proof of Concept](https://varvara-mitro.shinyapps.io/Forces_RandomForest_App/)
 
 **Ausgaben-Dashboard und Routing-Anwendung**  
 *Aufbau einer benutzerdefinierten Routing-Anwendung und eines Ausgaben-Trackers für Van-Reisende.*

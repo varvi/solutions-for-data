@@ -96,7 +96,7 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
 
 ---
 
-### Step by step approach to set up a project together
+### A step by step approach to set up a project
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin: 10px 0;">
   <!-- Step 1 -->
@@ -172,7 +172,7 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
 **Force prediction for anchoring of window frames**  
 *Custom application and data pipeline. Training and deployment of machine learning algorithm. Currently working on MLOps to to streamline and automate the machine learning lifecycle*
 
-*RShiny app:* [Force Prediction for Anchoring](https://varvara-mitro.shinyapps.io/Arko_RandomForest__AppTEST/)
+*RShiny app:* [Force Prediction for Anchoring](https://varvara-mitro.shinyapps.io/Forces_RandomForest_App/)
 
 **Expenses dashboarding and Routing Application**  
 *Built a custom routing application and expense tracker for van travelers.*
