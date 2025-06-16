@@ -88,8 +88,7 @@ Nutzen Sie Ihre Daten und treiben Sie Ihr Geschäft voran durch die automatisier
 
 **Management von Klinischen Daten**  
 <br>
-Wenn Sie eine klinische Studie planen, kann ich Sie durch die Anforderungen der Guten Klinischen Praxis und/oder ECRIN für Ihre Daten führen.
-</div>
+Wenn Sie eine klinische Studie planen, kann ich Sie durch die Anforderungen der Guten Klinischen Praxis und/oder ECRIN für Ihre Daten führen und Lösungen implementieren.
 
 </div>
 
