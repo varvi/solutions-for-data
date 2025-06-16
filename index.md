@@ -96,7 +96,7 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
 
 ---
 
-### My step by step approach to set up a project together
+### Step by step approach to set up a project together
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin: 10px 0;">
   <!-- Step 1 -->
@@ -168,6 +168,11 @@ I can guide you through the Good Clinical Practice and/or ECRIN requirements for
 
 **Data management governance, processes, and infrastructure for a large academic institution**  
 *Built a data management ecosystem to comply with GCP and ECRIN requirements.*
+
+**Force prediction for anchoring of window frames**  
+*Custom application and data pipeline. Training and deployment of machine learning algorithm. Currently working on MLOps to to streamline and automate the machine learning lifecycle*
+
+*RShiny app:* [Force Prediction for Anchoring](https://varvara-mitro.shinyapps.io/Arko_RandomForest__AppTEST/)
 
 **Expenses dashboarding and Routing Application**  
 *Built a custom routing application and expense tracker for van travelers.*

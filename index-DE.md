@@ -167,6 +167,11 @@ Wenn Sie eine klinische Studie planen, kann ich Sie durch die Anforderungen der 
 **Governance, Prozesse und Infrastruktur für das Datenmanagement der klinischen Daten für eine große akademische Einrichtung**  
 *Aufbau eines Datenmanagement-Ökosystems zur Einhaltung der GCP- und ECRIN-Anforderungen.*
 
+**Vorhersagemodell für das Verschrauben von Fensterrahmen**  
+*Benutzerdefinierte Anwendung und Datenpipeline. Training und Einsatz von maschinellen Lernenalgorithm. Derzeit arbeiten wir an MLOps, um den Lebenszyklus des maschinellen Lernens zu automatisieren.*
+
+*RShiny app:* [Force Prediction for Anchoring](https://varvara-mitro.shinyapps.io/Arko_RandomForest__AppTEST/)
+
 **Ausgaben-Dashboard und Routing-Anwendung**  
 *Aufbau einer benutzerdefinierten Routing-Anwendung und eines Ausgaben-Trackers für Van-Reisende.*
 
